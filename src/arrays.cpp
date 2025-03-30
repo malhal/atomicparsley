@@ -227,6 +227,7 @@ sfIDs storefronts[] = {
     {"Switzerland", 143459},    {"Australia", 143460},  {"New Zealand", 143461},
     {"Brazil", 143503},
     {"India", 143467},
+    {"Mexico", 143468},
     {"Japan", 143462}};
 
 iso639_lang known_languages[] = {
